@@ -26,6 +26,7 @@ This repository serves as a centralized portfolio of my open-source security eng
 ## Project Structure
 ```
 open-source-contributions/
+├── screenshots/
 ├── wireshark/
 │   ├── README.md
 │   ├── screenshots/
