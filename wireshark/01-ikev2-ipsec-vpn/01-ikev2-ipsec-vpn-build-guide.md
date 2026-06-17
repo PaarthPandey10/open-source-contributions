@@ -72,8 +72,6 @@ The final result of the lab is visual proof of the capture. It demonstrates a fl
 
 ## Contact
 
-![](../../screenshots/Pasted%20image%2020260617155839.png)
-
 For any questions or feedback, reach out:  
 **Paarth Pandey** [LinkedIn](https://www.linkedin.com/in/paarth-pandey-13779529b/) | [GitHub](https://github.com/paarthpandey10) | paarthdxb@gmail.com
 
