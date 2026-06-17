@@ -113,6 +113,16 @@
       "enabled": true,
       "delay": "",
       "note": ""
+    },
+    {
+      "id": "hyperlink-remover",
+      "name": "Link Remover",
+      "desc": "Easily remove hyperlinks and wikilinks from selected text or the entire note.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": "",
+      "note": ""
     }
   ],
   "HIDES": [],
