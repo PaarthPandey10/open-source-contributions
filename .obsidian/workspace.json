@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wireshark/01-ikev2-ipsec-vpn/Untitled.md",
+                "file": "wireshark/01-ikev2-ipsec-vpn/01-ikev2-ipsec-vpn-build-guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "01-ikev2-ipsec-vpn-build-guide"
             }
           }
         ]
@@ -198,10 +198,19 @@
   },
   "active": "dc0553620afd3bd9",
   "lastOpenFiles": [
+    "screenshots/Screenshot 2026-06-17 102500.png",
+    "screenshots/Screenshot 2026-06-17 102846.png",
+    "screenshots/Screenshot 2026-06-17 103115.png",
+    "screenshots/Screenshot 2026-06-17 103127.png",
+    "screenshots/Screenshot 2026-06-17 103322.png",
+    "screenshots/Screenshot 2026-06-17 103414.png",
+    "screenshots/Screenshot 2026-06-17 103544.png",
+    "screenshots/Screenshot 2026-06-17 110902.png",
+    "screenshots/Screenshot 2026-06-17 111353.png",
+    "screenshots/Screenshot 2026-06-17 111454.png",
+    "screenshots/Screenshot 2026-06-17 111616.png",
     "wireshark/01-ikev2-ipsec-vpn/README.md",
-    "wireshark/01-ikev2-ipsec-vpn/Untitled.md",
-    "screenshots/Pasted image 20260617151026.png",
-    "open-source-contributions/screenshots/Pasted image 20260617151001.png",
+    "wireshark/01-ikev2-ipsec-vpn/01-ikev2-ipsec-vpn-build-guide.md",
     "open-source-contributions/screenshots",
     "open-source-contributions",
     "open-source-contributions/wireshark/01-ikev2-ipsec-vpn/README.md",
@@ -234,7 +243,6 @@
     "t3-technical-diligence/notes/n2_t3_chapter-2.md",
     "t2-cross-border-data/notes/n2_t2_chapter-2.md",
     "t2-cross-border-data/notes/n0_t2_chapter-0.md",
-    "t2-cross-border-data/notes/n1_t2_chapter-1.md",
-    "t2-cross-border-data/notes/n3_t3_chapter-3.md"
+    "t2-cross-border-data/notes/n1_t2_chapter-1.md"
   ]
 }
