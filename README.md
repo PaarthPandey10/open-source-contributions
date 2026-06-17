@@ -29,7 +29,6 @@ open-source-contributions/
 ├── screenshots/
 ├── wireshark/
 │   ├── README.md
-│   ├── screenshots/
 │   └── 01-ikev2-ipsec-vpn/
 │       ├── README.md
 │       ├── 01-ikev2-ipsec-vpn-build-guide.md
