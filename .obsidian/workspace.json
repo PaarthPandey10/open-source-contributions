@@ -196,8 +196,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2cbd46beca9227c7",
+  "active": "dc0553620afd3bd9",
   "lastOpenFiles": [
+    "screenshots/Pasted image 20260617155839.png",
     "README.md",
     "Untitled.md",
     "wireshark/01-ikev2-ipsec-vpn/01-ikev2-ipsec-vpn-build-guide.md",
@@ -242,7 +243,6 @@
     "t4-us-laws/notes/n1_t3_chapter-1.md",
     "t4-us-laws/notes/n0_t3_chapter-0.md",
     "t3-technical-diligence/notes/n2_t3_chapter-2.md",
-    "t2-cross-border-data/notes/n2_t2_chapter-2.md",
-    "t2-cross-border-data/notes/n0_t2_chapter-0.md"
+    "t2-cross-border-data/notes/n2_t2_chapter-2.md"
   ]
 }
