@@ -1,4 +1,4 @@
-````
+
 # Infrastructure Build Guide: Bare-Metal IS-IS L2 P2P Adjacency
 
 > A visual and technical guide documenting the engineering, server provisioning, and validation of a pristine IS-IS routing protocol database exchange.
@@ -30,7 +30,6 @@ python3 CiscoIOUKeygen.py
 
 The script will spit out an output formatted like this:
 
-Plaintext
 
 ```
 [license]
@@ -43,7 +42,6 @@ Create a new file named `iourc` in that same folder, paste the exact text block 
 
 Because the files were created via root/external download, you must force the hypervisor to clean up and inherit the correct execution contexts. Run the native EVE-NG wrapper script to globally align permissions:
 
-Bash
 
 ```
 /opt/unetlab/wrappers/unl_wrapper -a fixpermissions
@@ -80,7 +78,6 @@ By establishing our capture state _before_ turning up the routing processes, the
 
 ### EVE-NG Server Setup Commands
 
-Bash
 
 ```
 # Navigate to the IOL directory
@@ -99,7 +96,7 @@ python3 CiscoIOUKeygen.py
 
 ### Cisco Router-1 (R1) Configuration
 
-Plaintext
+
 
 ```
 conf t
@@ -125,7 +122,7 @@ end
 
 ### Cisco Router-2 (R2) Configuration
 
-Plaintext
+
 
 ```
 conf t
@@ -151,7 +148,7 @@ end
 
 ### Adjacency Reset (Trigger Packet Trap)
 
-Plaintext
+
 
 ```
 # Run this on R1 while Wireshark is listening to force an instantaneous clean database exchange sync
