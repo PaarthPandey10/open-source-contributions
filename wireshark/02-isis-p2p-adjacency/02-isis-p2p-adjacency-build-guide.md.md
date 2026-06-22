@@ -63,9 +63,11 @@ Before activating the routing processes, the packet capture pipeline was armed. 
 IS-IS processes were provisioned on both nodes using unique Network Entity Titles (NETs). To eliminate multi-access LAN behaviors—such as Designated Intermediate System (DIS) broadcast elections and heavy pseudo-node LSP generation—the physical interface links were explicitly locked down to `isis network point-to-point`.
 
 **Router-1 (R1) Configuration Execution:**
+
 ![](../../screenshots/Screenshot%202026-06-22%20153833.png)
 
 **Router-2 (R2) Configuration Execution:**
+
 ![](../../screenshots/Screenshot%202026-06-22%20153842.png)
 
 ### 4. Upstream Validation: Pristine IS-IS Database Sync
