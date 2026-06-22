@@ -1,4 +1,3 @@
-
 # Infrastructure Build Guide: Bare-Metal IS-IS L2 P2P Adjacency
 
 > A visual and technical guide documenting the engineering, server provisioning, and validation of a pristine IS-IS routing protocol database exchange.
