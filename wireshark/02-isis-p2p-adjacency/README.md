@@ -24,7 +24,6 @@ This project documents the engineering, deployment, and execution of a localized
 
 Here are the links to check out the contribution:
 * [Wireshark SampleCaptures Wiki Page](https://wiki.wireshark.org/SampleCaptures#routing-protocols): The original wiki page with my contribution under the "Routing Protocols" section.
-* [Wireshark IS-IS Protocol Page](https://wiki.wireshark.org/IS-IS): A related protocol page where the .pcapng file is linked under "Example traffic" as an isolated IS-IS Level-2 Point-to-Point adjacency synchronization.
 
 ---
 
