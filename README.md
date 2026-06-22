@@ -30,9 +30,13 @@ open-source-contributions/
 ├── wireshark/
 │   ├── README.md
 │   └── 01-ikev2-ipsec-vpn/
+│   │   ├── README.md
+│   │   ├── 01-ikev2-ipsec-vpn-build-guide.md
+│   │   └── ikev2-site-to-site-handshake.pcapng
+│   └── 02-isis-p2p-adjacency/
 │       ├── README.md
-│       ├── 01-ikev2-ipsec-vpn-build-guide.md
-│       └── ikev2-site-to-site-handshake.pcapng
+│       ├── 02-isis-p2p-adjacency-build-guide.md
+│       └── isis_p2p_adjacency_sync.pcapng
 ├── LICENSE
 └── README.md
 ```
