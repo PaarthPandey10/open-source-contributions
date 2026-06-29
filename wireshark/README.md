@@ -13,6 +13,7 @@ This directory contains my open-source contributions to the official Wireshark F
 ## Key Highlights
 
 - **01-ikev2-ipsec-vpn:** A bare-metal EVE-NG lab running Cisco ASAv nodes to capture a flawless Phase 1 and Phase 2 IKEv2 IPsec handshake utilizing AES-256-GCM. 
+- **02-isis-p2p-adjacency:** A bare-metal EVE-NG routing lab executing a noise-free IS-IS Level-2 Point-to-Point adjacency capture, suppressing DIS elections for a pristine protocol database synchronization sequence.
 
 ---
 
